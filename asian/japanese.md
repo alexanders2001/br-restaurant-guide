@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Japanese
+## Asian --> Thai
 ---
 Select a restaurant:
-## Bayridge Sushi http://www.brsushi.com/
+## Glow Thai http://www.glowthairestaurant.com/
 ---
-Back to Asian  
-Start Over
+[Back to Asian](asian.md)
+[Start Over](../home.md)
