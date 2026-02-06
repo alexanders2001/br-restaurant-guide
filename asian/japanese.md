@@ -2,7 +2,7 @@
 ## Asian --> Thai
 ---
 Select a restaurant:
-## Glow Thai http://www.glowthairestaurant.com/
+## [Bayridge Sushi] (https://www.brsushi.com/)
 ---
 [Back to Asian](asian.md)
 [Start Over](../home.md)
